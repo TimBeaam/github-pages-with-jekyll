@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to our new "Projekt X""
 ---
 
-I'm glad you are here. I plan to talk about ...
+These are my first steps to create a own GitHub page with jekyll.
